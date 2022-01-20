@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajdeep Banerjee (@rjdpX) | Mechanical Engineer(KIIT)
 - 👀 I’m interested in Autonomous Vehicles and passionate about learning.
-- 🌱 I’m currently learning about Localisation and Mapping.
+- 🌱 I’m currently learning about Localization and Mapping.
 - 💞️ I’m looking to collaborate on projects involving localization, mapping and path planning.
 - 📫 How to reach me https://www.linkedin.com/in/rajdeepforreal
 
