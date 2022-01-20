@@ -16,4 +16,6 @@ You can click the Preview link to take a look at your changes.
 - 👯‍♂️ Looking to collaborate on Computer Vision and Deep Learning 
 - 📫 How to reach me: https://www.linkedin.com/in/rajdeepforreal/ 
 
+---
+
 [![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjdpX)](https://github.com/rjdpX/github-readme-stats)
