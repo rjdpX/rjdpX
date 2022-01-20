@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rjdpX
-- 👀 I’m interested in Self Driving Cars
-- 🌱 I’m currently learning about Computer Vision
-- 💞️ I’m looking to collaborate on projects involving Computer Vision and Deep Learning
+- 👋 Hi, I’m Rajdeep Banerjee (@rjdpX) | Mechanical Engineer(KIIT)
+- 👀 I’m interested in Autonomous Vehicles and passionate about learning.
+- 🌱 I’m currently learning about Localisation and Mapping.
+- 💞️ I’m looking to collaborate on projects involving localization, mapping and path planning.
 - 📫 How to reach me https://www.linkedin.com/in/rajdeepforreal
 
 <!---
