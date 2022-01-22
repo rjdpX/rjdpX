@@ -20,3 +20,4 @@ ____
 
 ---
 
+[![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjdpX)](https://github.com/rjdpX/github-readme-stats)
