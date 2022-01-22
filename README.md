@@ -20,4 +20,4 @@ ____
 
 ---
 
-[![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjdpX)]
+![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjdpX)
