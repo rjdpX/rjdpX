@@ -7,12 +7,9 @@ You can click the Preview link to take a look at your changes.
 
 
 # Hi there, I'm Rajdeep! 👋
-____
 
 ## 🚀 About Me
-A Mechanical Engineer looking foward to work on self driving cars and be a part of an organization that allows me to explore different related areas of research. 
-
-Being passionate about visual perception, localization, mapping and path planning and looking for collaborations to contribute in the world of self driving cars.
+A Mechanical Engineer looking foward to work on self driving cars and be a part of an organization that allows me to explore different related areas of research like visual perception, localization, mapping and path planning. I am looking for collaborations to contribute in the world of self driving cars, if you are interested, let's connect.
 
 
 ## Other Common Github Profile Sections
