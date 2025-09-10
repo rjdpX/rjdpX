@@ -1,36 +1,55 @@
-<!---
-rjdpX/rjdpX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+  rjdpX/rjdpX is a ✨ special ✨ repo because its README.md appears on your GitHub profile.
+-->
 
-<!-- ![Thanks for checking out!](https://media-exp1.licdn.com/dms/image/C4E16AQFtGFztdk-N3g/profile-displaybackgroundimage-shrink_200_800/0/1608229258558?e=1648080000&v=beta&t=y6D121JppoPjJSDRSYnGp0fBK02Sb3Sl_nwuh4Rk4gw) -->
+<!-- Optional banner: replace with your LinkedIn banner or site og image -->
+<!-- ![Banner](https://check-with-rajdeep.vercel.app/og.png) -->
 
-![Thanks for checking out!](https://user-images.githubusercontent.com/94236807/156004789-8f5b9d26-e4f9-472f-9507-18aea3a2e42f.png)
+# Hi, I'm Rajdeep 👋
 
+**MS Robotics @ WPI (2025–2027) · ex-ZF (ML) · ex-Accenture**  
+Engineering the future: **AI, Robotics & Autonomous Mobility**
 
-# Hi there, I'm Rajdeep! 👋
-
-## 🚀 About Me
-A Mechanical Engineer looking foward to work on self driving cars and be a part of an organization that allows me to explore different related areas of research like visual perception, localization, mapping and path planning. I am looking for collaborations to contribute in the world of self driving cars, if you are interested, let's connect.
-
-
-## Other Common Github Profile Sections
-👩‍💻 Currently working on State Estimation and Localization
-
-🧠 Learning about Kalman Filters 
-
-👯‍♀️ Looking to collaborate on Computer Vision and Deep Learning 
-
-
-
-## 🛠 Skills
-OpenCV, Python, C++, Machine Learning, Deep Learning
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeepforreal/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/checkwithRaj)
+- 🇺🇸 Worcester Polytechnic Institute — **Robotics (Master’s)**
+- 🧠 Former **Machine Learning Engineer @ ZF Group** (CV for ADAS/Autonomy)
+- 🛠 Former **Application Dev @ Accenture** (Fast-Track promotion)
 
 ---
 
-![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjdpX)
+## 🚀 What I’m focused on
+- **Computer Vision for autonomy** — traffic light recognition, driver distraction detection  
+- **LLM + Document AI** — certificate classification & extraction (LayoutLM, Azure AI Document Intelligence, PaddleOCR, PyMuPDF, Docling, LlamaParse, PDFMiner)  
+- **Reliable ML deployment** — safety-critical thresholds, latency/accuracy benchmarking
+
+---
+
+## 🧩 Selected Projects
+- **Traffic Light Recognition** — CV pipeline for robust, real-world conditions (PyTorch, OpenCV)  
+- **Driver Distraction Detection** — ML model for attention/distraction levels (time series / vision)  
+- **Certificate Classification (Doc AI)** — LLM + OCR stack for classification & key-field extraction
+
+> Live portfolio: **https://check-with-rajdeep.vercel.app**  
+> (Resume available at `/resume.pdf`)
+
+---
+
+## 🛠️ Tech & Tools
+**Python · PyTorch · TensorFlow · OpenCV · scikit-learn · pandas**  
+**LLMs/Doc AI:** LayoutLM, Azure AI Document Intelligence, PaddleOCR, PyMuPDF, Docling, LlamaParse, PDFMiner   
+**Data/ETL & Viz:** SAP BODS, QlikView, Tableau, Power BI, Informatica  
+**Other:** Git, Linux, Docker, WSL
+
+---
+
+## 🔗 Links
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://check-with-rajdeep.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rajdeepforreal/)
+[![X (Twitter)](https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/checkwithRaj)
+[![Email](https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white&style=for-the-badge)](mailto:checkwith.rajdeep@example.com)
+
+---
+
+## 📈 GitHub Stats
+![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjdpX&show_icons=true&theme=transparent)
+<!-- Optional: Top languages card -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjdpX&layout=compact&theme=transparent) -->
