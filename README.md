@@ -4,6 +4,7 @@
 
 <!-- Optional banner: replace with your LinkedIn banner or site og image -->
 <!-- ![Banner](https://check-with-rajdeep.vercel.app/og.png) -->
+<img width="1584" height="396" alt="linkedin_banner_03" src="https://github.com/user-attachments/assets/8fae442d-8a18-49c6-b667-b4b8cde57327" />
 
 # Hi, I'm Rajdeep 👋
 
@@ -46,6 +47,9 @@ Engineering the future: **AI, Robotics & Autonomous Mobility**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rajdeepforreal/)
 [![X (Twitter)](https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/checkwithRaj)
 [![Email](https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white&style=for-the-badge)](mailto:checkwith.rajdeep@example.com)
+
+---
+<img width="844" height="1500" alt="phone_background" src="https://github.com/user-attachments/assets/488dcdfb-5b58-4472-9ee0-768ce6ba09ad" />
 
 ---
 
