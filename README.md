@@ -10,7 +10,7 @@
 **MS Robotics @ WPI (2025–2027) · ex-ZF (ML) · ex-Accenture**  
 Engineering the future: **AI, Robotics & Autonomous Mobility**
 
-- 🇺🇸 Worcester Polytechnic Institute — **Robotics (Master’s)**
+- Worcester Polytechnic Institute — **Robotics (Master’s)**
 - 🧠 Former **Machine Learning Engineer @ ZF Group** (CV for ADAS/Autonomy)
 - 🛠 Former **Application Dev @ Accenture** (Fast-Track promotion)
 
